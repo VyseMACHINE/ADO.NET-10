@@ -1,0 +1,15 @@
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\bin\Debug\EFMigrationApp.exe.config
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\bin\Debug\EFMigrationApp.exe
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\bin\Debug\EFMigrationApp.pdb
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\bin\Debug\EntityFramework.dll
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\bin\Debug\EntityFramework.xml
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\obj\Debug\EFMigrationApp.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\obj\Debug\EFMigrationApp.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\obj\Debug\EFMigrationApp.exe
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\obj\Debug\EFMigrationApp.pdb
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\obj\Debug\EFMigrationApp.Migrations.InitialCreate.resources
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\obj\Debug\EFMigrationApp.csproj.GenerateResource.Cache
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\obj\Debug\EFMigrationApp.Migrations.AddGroupCountProperty.resources
+C:\Users\Ильяс Сабитов\source\repos\EFMigrationApp\EFMigrationApp\obj\Debug\EFMigrationApp.Migrations.AddDecanNameProperty.resources
